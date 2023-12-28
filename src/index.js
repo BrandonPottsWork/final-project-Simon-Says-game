@@ -53,6 +53,7 @@ const pads = [
     sound: new Audio("../assets/simon-says-sound-4.mp3"),
   },
 ];
+//custom sounds for winning and losing
 
 /**
  * EVENT LISTENERS
